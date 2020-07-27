@@ -45,6 +45,8 @@ libXi.so.6 libxi6 #MINVER#
  XIGrabEnter@Base 2:1.2.99.4
  XIGrabFocusIn@Base 2:1.2.99.4
  XIGrabKeycode@Base 2:1.2.99.4
+ XIGrabPinchGestureBegin@Base 2:1.7.10-3gestures1
+ XIGrabSwipeGestureBegin@Base 2:1.7.10-3gestures1
  XIGrabTouchBegin@Base 2:1.5.99.2
  XIListProperties@Base 2:1.2.99.4
  XIQueryDevice@Base 2:1.2.99.4
@@ -59,6 +61,8 @@ libXi.so.6 libxi6 #MINVER#
  XIUngrabEnter@Base 2:1.2.99.4
  XIUngrabFocusIn@Base 2:1.2.99.4
  XIUngrabKeycode@Base 2:1.2.99.4
+ XIUngrabPinchGestureBegin@Base 2:1.7.10-3gestures1
+ XIUngrabSwipeGestureBegin@Base 2:1.7.10-3gestures1
  XIUngrabTouchBegin@Base 2:1.5.99.2
  XIWarpPointer@Base 2:1.2.99.4
  XGrabDeviceButton@Base 0
